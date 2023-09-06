@@ -1,0 +1,38 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: hotpink;
+}
+
+h1 {
+    font-size: 3rem;
+    float: right;
+}
+
+.ugly-lorem {
+    line-height: 2.3;
+    width: 30vw;
+    text-decoration: underline;
+}
+
+section {
+    color: #FFFF00;
+}
+
+.quote {
+    font-size: 2rem;
+}
+
+.michaelScott {
+    font-size: 2rem;
+    letter-spacing: 3rem;
+    float: right;
+    color: lightblue;
+}
+.wrapText {
+    float: left;
+}
+img {
+    width: 50vw;
+    filter: invert(.75);
+    float: right;
+}
